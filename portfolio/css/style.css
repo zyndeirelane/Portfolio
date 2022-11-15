@@ -64,10 +64,10 @@ header {
 header.shadow {
   box-shadow: 0 0 4px rgb(14 55 54 / 15%);
 }
-.logo {
-  font-size: 1.61rem;
-  font-weight: 600;
-  color: var(--text-color);
+.logo img{
+  width: 100px;
+  float: left;
+  height: auto;
 }
 .navbar {
   display: flex;
